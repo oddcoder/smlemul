@@ -71,3 +71,4 @@ FFFF
 
 
 note that the smlemul only accepts the opcode 16 bit at a line
+also you should know that every program should end with the HALT command and in order to start excuting code you should enter ffff or FFFF
