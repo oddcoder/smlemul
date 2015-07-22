@@ -19,5 +19,8 @@
  */
 #include <stdio.h>
 #include <ctype.h>
+#ifndef _SIO_H
+#define _SIO_H
 int get_s(char *s, int max);
 void neglect_input();
+#endif

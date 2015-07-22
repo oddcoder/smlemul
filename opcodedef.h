@@ -1,3 +1,5 @@
+#ifndef _OPCODEDEF_H
+#define _OPCODEDEF_H
 #define HALT 0x100
 //program ends
 //HALT  
@@ -48,3 +50,4 @@
 // ax and mem
 #define OR  0x7100
 #define XOR 0x7200
+#endif
